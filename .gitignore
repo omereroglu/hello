@@ -1,1 +1,6 @@
 database.txt
+
+
+specials/*
+
+!specials/work4.txt
